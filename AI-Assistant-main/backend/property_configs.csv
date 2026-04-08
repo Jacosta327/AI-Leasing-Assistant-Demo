@@ -1,0 +1,6 @@
+property_name,floorplan,available,price,move_in,pets_allowed,bed_bath
+The Crimson,B1,True,"$1,299/month",August 20th,True,2x2
+The Crimson,B2,True,"$1,325/month",August 20th,True,2x2
+The Crimson,A1,False,"$1,175/month",August 15th,False,1x1
+The Crimson,Studio A,True,"$1,099/month",June 1st,True,studio
+The Crimson, C1, True,"$999/month",May 30th,True,3x2
